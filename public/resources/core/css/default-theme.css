@@ -1185,7 +1185,7 @@ a.dropdown-menu-item:hover {
 }
 
 .navbar-default .navbar-nav > li > a {
-    color: white;
+    color: rgb(0, 36, 82);
 }
 
 .navbar-default .navbar-nav > li > a:hover,
